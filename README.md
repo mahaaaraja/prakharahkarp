@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakhar
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning web development
+- 🌱 I’m a Developer
 
 <!---
 prakharahkarp/prakharahkarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
